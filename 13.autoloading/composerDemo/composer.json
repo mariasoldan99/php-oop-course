@@ -1,0 +1,15 @@
+{
+    "name": "maria/composer-demo",
+    "autoload": {
+        "psr-4": {
+            "Maria\\ComposerDemo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MariaS",
+            "email": "m.soldan99@gmail.com"
+        }
+    ],
+    "require": {}
+}
